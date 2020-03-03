@@ -35,4 +35,4 @@
        * display the number of wins and losses and then exit the program
         
 ## Lab 5 Part 3
-        
+* Implements Zeller's Algorithm to calculate the day of the week on which a given date will fall or fell in the past.
