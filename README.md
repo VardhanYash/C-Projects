@@ -40,3 +40,14 @@
 ## Lab 6
 * Allow for 2 players to play a game of tic tac toe by displaying a game board that updates after every turn and recognizes win conditions
 * Check for when the game is over, whether that be due to a player winning or a tie
+
+## Lab 7
+* Implements the game "Reversi" by drawing the game board and determining the available moves for Black and White given the current game board
+
+## Lab 8
+* Allows for a full game of Reversi to be played with score tracking as well as checking for win conditions
+* Option to play against a smart CPU (also user-coded) which determines the best move to play given an set game board
+
+## Lab 9
+* A music library which allows the user to insert songs, delete songs, search for songs, print the entire music library and quit the program
+* Implemented using linked lists
