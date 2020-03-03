@@ -36,3 +36,7 @@
         
 ## Lab 5 Part 3
 * Implements Zeller's Algorithm to calculate the day of the week on which a given date will fall or fell in the past.
+
+## Lab 6
+* Allow for 2 players to play a game of tic tac toe by displaying a game board that updates after every turn and recognizes win conditions
+* Check for when the game is over, whether that be due to a player winning or a tie
