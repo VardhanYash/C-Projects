@@ -6,4 +6,4 @@
 
 ## Lab 2
 * Calculates the cost of making a purchase on credit and paying the money off after N months using the formula:
-        <img src = "L2-Interest-Rate-Cost/Capture.png" >
+        ![Formula](https://github.com/VardhanYash/C-Projects/blob/master/L2-Interest%20Rate%20Cost/Capture.PNG)
