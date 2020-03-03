@@ -11,3 +11,9 @@
         * P is cost of Item
         * r is the interest rate per month
         * N is the number of months over which the item is paid for
+
+## Lab 3
+* Helps with the budgeting of coffee based on a loyalty program
+* Accepts as input : price of coffe, how many coupons to redeem free coffee, how much money the user has to spend on coffee this month
+* Output the # of coffees they can purchase this month, number of additional coffees they can reedem via coupons, amount of money and coupons left over at the end of the month, and average price the user spent on coffee (taking into account the free coffees)
+
